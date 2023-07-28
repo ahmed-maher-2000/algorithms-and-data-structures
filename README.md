@@ -1,2 +1,2 @@
-# data-structures
+# Data Structures
 implement data structures.
