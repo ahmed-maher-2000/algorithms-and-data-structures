@@ -1,7 +1,5 @@
 # Common Data Structures with JavaScript
 
-![Data Structures](data-structures.png)
-
 This repository contains implementations of common data structures using JavaScript. Each data structure is designed to provide efficient storage and manipulation of data for different use cases.
 
 ## Table of Contents
