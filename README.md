@@ -27,3 +27,6 @@ Currently, the following data structures are available in this repository:
 8. **Linked List**: A singly linked list that supports insertion, deletion, and traversal.
 
 Each data structure is organized in its own module and includes examples showcasing their usage.
+
+![image](https://github.com/ahmed-maher-2000/data-structures/assets/77233712/3ffcda6f-2207-4e91-bc0d-fdb357b4c1dc)
+
