@@ -29,6 +29,8 @@ Currently, the following data structures are available in this repository:
 
 Each data structure is organized in its own module and includes examples showcasing their usage.
 
+![image](https://github.com/ahmed-maher-2000/data-structures/assets/77233712/3ffcda6f-2207-4e91-bc0d-fdb357b4c1dc)
+
 ## Common Algorithms
 
 This repository also includes implementations of common algorithms, such as:
@@ -40,6 +42,7 @@ This repository also includes implementations of common algorithms, such as:
 
 Each algorithm is explained with its implementation details, time complexities, and usage scenarios.
 
+![image](https://github.com/ahmed-maher-2000/algorithms-and-data-structures/assets/77233712/c0e99382-cb52-4c9e-aab0-14b1c00b09dc)
 
-![image](https://github.com/ahmed-maher-2000/data-structures/assets/77233712/3ffcda6f-2207-4e91-bc0d-fdb357b4c1dc)
+
 
