@@ -1,17 +1,18 @@
-# Common Data Structures with JavaScript
+# Common Data Structures and Algorithms with JavaScript
 
-This repository contains implementations of common data structures using JavaScript. Each data structure is designed to provide efficient storage and manipulation of data for different use cases.
+This repository contains implementations of common data structures and algorithms using JavaScript. Each data structure and algorithm is designed to provide efficient solutions for various programming problems.
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Available Data Structures](#available-data-structures)
+3. [Common Algorithms](#common-algorithms)
 
 ## Introduction
 
-Data structures are essential tools for organizing and managing data in computer programs. They enable efficient data access, insertion, deletion, and manipulation. Understanding and implementing data structures can improve algorithm efficiency and overall program performance.
+Data structures and algorithms are fundamental concepts in computer science. Data structures allow us to organize and manage data efficiently, while algorithms provide methods for solving problems using that data. Understanding both data structures and algorithms is essential for writing efficient and effective code.
 
-This repository aims to provide clear and well-documented implementations of various data structures using JavaScript. Each data structure is presented with its implementation details, time complexities, and use cases to help developers better understand and utilize them in their projects.
+This repository aims to provide clear and well-documented implementations of various data structures and algorithms using JavaScript. Each item is presented with its implementation details, time complexities, and use cases to help developers better understand and utilize them in their projects.
 
 ## Available Data Structures
 
@@ -27,6 +28,18 @@ Currently, the following data structures are available in this repository:
 8. **Linked List**: A singly linked list that supports insertion, deletion, and traversal.
 
 Each data structure is organized in its own module and includes examples showcasing their usage.
+
+## Common Algorithms
+
+This repository also includes implementations of common algorithms, such as:
+
+1. **Sorting Algorithms**: Including Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort.
+2. **Search Algorithms**: Including Binary Search.
+3. **Recursion and Dynamic Programming**: Examples of solving problems using recursion and dynamic programming techniques.
+4. **Graph Algorithms**: Including Breadth-First Search (BFS) and Depth-First Search (DFS).
+
+Each algorithm is explained with its implementation details, time complexities, and usage scenarios.
+
 
 ![image](https://github.com/ahmed-maher-2000/data-structures/assets/77233712/3ffcda6f-2207-4e91-bc0d-fdb357b4c1dc)
 
