@@ -1,4 +1,4 @@
-// implement List
+// implement LinkedList
 class Node {
   constructor(item) {
     this.head = item;
@@ -6,7 +6,7 @@ class Node {
   }
 }
 
-class List {
+class LinkedList {
   constructor() {
     this.length = 0;
     this.start = null;
@@ -107,7 +107,7 @@ class List {
     return temp;
   }
 
-  printList() {
+  printLinkedList() {
     let temp = this.start;
     let i = 0;
     while (temp) {
@@ -127,4 +127,4 @@ class List {
   }
 }
 
-module.exports = { List };
+module.exports = { LinkedList };
