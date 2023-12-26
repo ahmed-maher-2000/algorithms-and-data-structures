@@ -77,19 +77,4 @@ class MaxHeap {
   }
 }
 
-const myHeap = new MaxHeap();
-myHeap.insert(5);
-myHeap.insert(3);
-myHeap.insert(17);
-myHeap.insert(10);
-myHeap.insert(84);
-myHeap.insert(19);
-myHeap.insert(6);
-myHeap.insert(22);
-myHeap.insert(9);
-
-console.log(myHeap.printHeap());
-console.log("Extract min: " + myHeap.extractMax());
-console.log(myHeap.printHeap());
-
 module.exports = { MaxHeap };
